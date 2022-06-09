@@ -1,13 +1,17 @@
 # Equinox Data
-<table style="background-color:white; width:100%;">
+<table style="width:100%;">
   <tr>
+     <td>
+       <img style='vertical-align:middle;' width="200px" src='http://seshatdatabank.info/wp-content/themes/seshat/img/logo.png'>
+    </td>
+     <td>
+       <img style='vertical-align:middle;' width="280px" src='https://vis.csh.ac.at/corona-ampel/assets/CSH_Logo.png'>
+    </td>
     <td>
-       <img style='vertical-align:middle;' width="180px" src='http://seshatdatabank.info/wp-content/uploads/2020/04/Seshat-Enters-Data-into-a-PC-08-1-e1585764709782-768x659.png'>
+       <img style='vertical-align:middle;' width="320px" src='https://evolution-institute.org/wp-content/uploads/2017/11/ei-logo-type.png'>
     </td>
   </tr>
 </table>
-
-![Seshat_photo](http://seshatdatabank.info/wp-content/uploads/2020/04/Seshat-Enters-Data-into-a-PC-08-1-e1585764709782-768x659.png =200x250)
 
 ### The Seshat team makes our data publicly available in different ways.
 
