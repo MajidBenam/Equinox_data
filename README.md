@@ -1,5 +1,5 @@
 # Equinox Data
-![Seshat_photo]([http://url/to/img.png](http://seshatdatabank.info/wp-content/uploads/2020/04/Seshat-Enters-Data-into-a-PC-08-1-e1585764709782-768x659.png))
+![Seshat_photo](http://seshatdatabank.info/wp-content/uploads/2020/04/Seshat-Enters-Data-into-a-PC-08-1-e1585764709782-768x659.png)
 
 ### The Seshat team makes our data publicly available in different ways.
 
