@@ -1,4 +1,21 @@
 # Equinox Data
+<table style="background-color:white; width:100%;">
+  <tr>
+    <td>
+       <img style='vertical-align:middle;' width="180px" src='http://seshatdatabank.info/wp-content/uploads/2020/04/Seshat-Enters-Data-into-a-PC-08-1-e1585764709782-768x659.png'>
+    </td>
+    <td style="vertical-align: middle">
+      <img style='vertical-align:middle;' width="300px" src='http://seshatdatabank.info/wp-content/uploads/2020/04/Seshat-Enters-Data-into-a-PC-08-1-e1585764709782-768x659.png'>
+    </td>
+    <td>
+       <img style='vertical-align:middle;' width="125px" src='http://seshatdatabank.info/wp-content/uploads/2020/04/Seshat-Enters-Data-into-a-PC-08-1-e1585764709782-768x659.png'>
+    </td>
+    <td>
+       <img style='vertical-align:middle;' width="75px" src='http://seshatdatabank.info/wp-content/uploads/2020/04/Seshat-Enters-Data-into-a-PC-08-1-e1585764709782-768x659.png'>
+    </td>
+  </tr>
+</table>
+
 ![Seshat_photo](http://seshatdatabank.info/wp-content/uploads/2020/04/Seshat-Enters-Data-into-a-PC-08-1-e1585764709782-768x659.png =200x250)
 
 ### The Seshat team makes our data publicly available in different ways.
